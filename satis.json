@@ -1,0 +1,8 @@
+{
+    "name":        "binford-tools/composer",
+    "description": "Provides custom packages for Binford® Tools.",
+    "homepage":    "https://binford-tools.github.io/composer/",
+    "repositories":
+    [],
+    "require-all": true
+}

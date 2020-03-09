@@ -1,0 +1,18 @@
+{
+    "name":        "binford-tools/composer",
+    "description": "Provides custom packages for Binford® Tools.",
+    "type":        "project",
+    "license":     "MIT",
+    "require":
+    {
+        "php": "^7.3"
+    },
+    "require-dev":
+    {
+        "composer/satis": "^1.0"
+    },
+    "scripts":
+    {
+        "build": "satis build satis.json docs"
+    }
+}
