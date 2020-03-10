@@ -3,6 +3,8 @@
     "description": "Provides custom packages for Binford® Tools.",
     "homepage":    "https://binford-tools.github.io/composer/",
     "repositories":
-    [],
+    [
+        { "type": "vcs", "url": "https://github.com/binford-tools/theme.git" }
+    ],
     "require-all": true
 }
